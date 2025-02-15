@@ -1,6 +1,6 @@
 ![logo](https://github.com/iamddas/iamddas/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Debasish Das</h1>
-<h3 align="center">A passionate Backend Developer from India.</h3>
+<h3 align="center">A passionate Full Stack Developer from India.</h3>
 
 <img align="right" alt="coding" width="400" src=https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif>
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamddas](https://github.com/iamddas)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java,React**
 
 - 📫 How to reach me **welldebasish@gmail.com**
 
