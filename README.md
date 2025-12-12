@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" width="370" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamddas&label=Profile+Views&style=flat-square&color=blue" alt="views"/>
 </p>
 
@@ -54,7 +54,7 @@
 
 ---
 
-## ⚒️ Full-Stack Developer Skill Set  
+## ⚒️ Skill Set  
 ### **Frontend**
 - React.js (Hooks, State Management)
 - JavaScript (ES6+), HTML5, CSS3  
@@ -77,20 +77,6 @@
 - Postman  
 - VS Code & IntelliJ  
 - Maven / Gradle
-
----
-
-## 👨‍💻 Current Focus  
-Building a **full-featured Organisation Management System**, including:  
-✔ Authentication (JWT + OAuth)  
-✔ Dashboard with charts  
-✔ Employee management  
-✔ Punch in/out  
-✔ Salary & leave module  
-✔ Internal chat  
-✔ Notifications  
-✔ Modern, responsive UI  
-
 ---
 
 ### ⭐ If you like my work, feel free to star my repositories!
